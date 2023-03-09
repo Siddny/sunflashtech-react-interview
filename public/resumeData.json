@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Sidney Kiprono",
+    "description":"Software Developer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability",
+    "image":"profilepic.png",
+    "bio":"I enjoy being challenged and engaging with projects that require me to work outside my comfort andknowledge set, as continuing to learn new technologies and techniques is important to me and the success of your organisation",
+    "email": "sidneykiprono.sk@gmail.com",
+    "phone": "+254700021447",
+    "github":"https://github.com/siddny",
+    "linkedin":"https://www.linkedin.com/in/sidney-kiprono-4b196b144/",
+    "address":{
+      "street":"Nairobi",
+      "city":"Nairobi",
+      "state":"(Your State)",
+      "zip": "97-30304 Kapcheno"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sidney-kiprono-4b196b144/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/siddny",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Jomo Kenyatta University of Agriculture and technology",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"June 2019",
+        "description":"Archieved Second Class Honors Upper Division"
+      },
+      {
+        "school":"Cisco Academy",
+        "degree":"Cyber Security (Cisco CyberOps)",
+        "graduated":"June 2016",
+        "description":"Archieved Cisco CyberOps Certificate of Participation"
+      },
+      {
+        "school":"Techno Brain Training",
+        "degree":"Cisco Certified Network Routing and Switching (CCNA)",
+        "graduated":"September 2014",
+        "description":"Attained Cisco CCNA Certification"
+      },
+      {
+        "school":"Mumbuni Boys High School",
+        "degree":"KCSE",
+        "graduated":"2012",
+        "description":"Achieved Grade B"
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancer",
+        "title":"Software Developer",
+        "years":"April 2021 To Date",
+        "description":"Updated, modified and expanded existing software programs and developed custom solutions for two clients, Directed software development, testing and documentation and Provided IT support to company personnel."
+      },
+      {
+        "company":"Lishe Living",
+        "title":"Software Developer",
+        "years":"Dec 2019 To March 2021",
+        "description":"System design, development, testing and maintenance of highly scalable internal and external application programs for Lishe Living."
+      },
+      {
+        "company":"Techno Brain Kenya",
+        "title":"Software Developer",
+        "years":"Dec 2019 To March 2021",
+        "description":"Analyzed code for system testing and debugging, developed, maintained and supported Customer Relation Management Systems, internal and external application programs for Techno Brain Group."
+      },
+      {
+        "company":"Xelpha Health",
+        "title":"Software Developer",
+        "years":"Dec 2019 To March 2021",
+        "description":"Led frontend development tasks including enhancements, maintenance and support for Xelpha Health’s application and interfaces using Angular Material. Engineered software product, handling complex analysis and intricate programming to meet project requirements."
+      },
+      {
+        "company":"Olivine Technology",
+        "title":"Software Developer",
+        "years":"Dec 2019 To March 2021",
+        "description":"Progressed through software quality testing and end user training and became adept in analyzing code for system testing and debugging."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"86%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"SpringBoot",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"89%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"92%"
+      },
+      {
+        "name":"Git",
+        "level":"95%"
+      },
+      {
+        "name":"CI/CD",
+        "level":"80%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"78%"
+      }
+    ]
+  }
+}
